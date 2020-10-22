@@ -1,0 +1,49 @@
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.GenerateResource.Cache
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Zara\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Zara\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Zara\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Zara\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\chisht calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\chisht calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\chisht calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\chisht calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Zara\Dropbox\Мой ПК (LAPTOP-AM7NPTR3)\Desktop\G713\G713\Calculator\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
